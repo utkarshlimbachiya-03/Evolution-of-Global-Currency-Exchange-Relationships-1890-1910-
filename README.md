@@ -39,6 +39,5 @@ Analyzed correlation of GDP, interest rate, debt with centrality measures. Used 
 Simulated Tragete vs Random node removals, crisis spread using Susceptible-Infected (SI) model.
 
 
-**Key-insights**
 
 
